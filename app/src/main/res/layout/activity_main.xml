@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+   <demos.ch.com.flowlayout.FlowView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       >
+     <Button
+         style="@style/btn_style"
+         android:text="演员"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="你还要我怎样"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="方圆几里"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="绅士"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="认真的雪"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="faded"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="We dont talk more"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="Jar of love"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="可惜没如果"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="浪费"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="一丝不挂"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="阴天快乐"
+         />
+     <Button
+         style="@style/btn_style"
+         android:text="可以了"
+         />
+   </demos.ch.com.flowlayout.FlowView>
+
+</LinearLayout>
